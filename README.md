@@ -19,5 +19,8 @@ The use of multithreading in both programs is crucial. Without threads, either t
 This project fulfills the key requirements of the assigned internship task, which includes creating a functional client-server chat application using Java sockets and handling multiple users through multithreading. Although the current implementation demonstrates communication between one server and one client, the design is flexible and can be extended to support multiple clients. This can be achieved by maintaining a list of connected clients on the server and broadcasting messages to all of them.
 In conclusion, the TCP Chat Application provides a clear understanding of how network communication, socket programming, and multithreading work together to build a real-time system. It serves as a strong foundation for developing more complex systems such as multi-user chat servers, messaging applications, and collaborative platforms. The modular structure of the code also makes it easy to enhance with features such as user authentication, private messaging, GUI interfaces, and message logging for future development.
 
+#output
+
+![Chat App Screenshot](https://github.com/user-attachments/assets/d3a90968-9b77-48aa-89db-09a0b4eba458)
 
 
